@@ -1,0 +1,10 @@
+# Configuration file for modelling programm
+Number of abonents 25
+Scheduler RR
+Number of resource blocks 25
+# Parameters of Vector of Messages
+Min bound of distr 1
+Max bound of distr 1000
+SQO 4
+# 0 - Exp Distr 1 - Norm Distr 2 - LogNorm Distr
+Distribution 0
